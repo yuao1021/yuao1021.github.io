@@ -1,9 +1,9 @@
 # BY Blog
 
-这个README我直接拿[Hux](https://github.com/Huxpro/huxpro.github.io)的来修改了。😅
-### [我的博客在这里 &rarr;](http://qiubaiying.github.io)
+这个README我直接拿[qiubaiying](https://github.com/qiubaiying/qiubaiying.github.io)的来修改了。😅
+### [我的博客在这里 &rarr;](http://yuao1021.github.io)
 
-![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
+![](https://raw.githubusercontent.com/yuao1021/yuao1021.github.io/master/img/readme-home.png)
 
 
 ## 使用
@@ -242,7 +242,7 @@ JavaScript 的压缩混淆、Less 的编译、Apache 2.0 许可通告的添加�
 
 ## 致谢
 
-1. 这个模板是从这里[Hux](https://github.com/Huxpro/huxpro.github.io) fork 的。感谢这个作者 
+1. 这个模板是从这里[qiubaiying](https://github.com/qiubaiying/qiubaiying.github.io) fork 的。感谢这个作者 
 2. 感谢 Jekyll、Github Pages 和 Bootstrap!
 
 

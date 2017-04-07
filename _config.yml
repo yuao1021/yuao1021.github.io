@@ -1,17 +1,17 @@
 # Site settings
 title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+SEOTitle: 余敖的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: ao_1021@163.com
 description: "每个胜利背后都有许多尝试"
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+keyword: "BY, BY Blog, 余敖的博客, yuao, 余敖, 大数据，数据仓库，ETL"
+url: "http://yuao1021.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/yuao1021/yuao1021.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "天道酬勤!"
 sidebar-avatar: img/avatar-by.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -58,7 +58,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: qiubaiying
+duoshuo_username: yuao1021
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -91,17 +91,18 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+     {
+        title: "hadoop",
+        href: "https://hadoop.apache.org/"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "Hive",
+        href: "http://hive.apache.org/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "lxw的大数据田地",
+        href: "http://lxw1234.com/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "过往记忆",
+        href: "https://www.iteblog.com/"
     }
+
 ]
